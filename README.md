@@ -1,7 +1,7 @@
-# Mussaed | Right Marketer
-This project is related to SaudiGBT Hackathon (Mussaed)
+# Mossaed | Right Marketer
+This project is related to SaudiGBT Hackathon (Mossaed)
 # Overview 
-Mossaed understands costumer and solves his/her problem as immediate solution. It provide smart and specialized responses in specific field based on company data. It trained and feed by ChatGPT.
+Mossaed understands costumer and responses on his/her queries. It provide smart and specialized responses in specific field based on company data. It trained and feed by ChatGPT.
 # Tools
 * **Technologies:** API vectara , Python , Postman , HTML , Adobe xd 
 * **Libraries:** Pandas, Sklearn, Flask  
