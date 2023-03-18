@@ -1,14 +1,7 @@
-# Mossaed | Right Marketer
-This project is related to SaudiGBT Hackathon (Mussaed)
-
-
 # Mussaed | Right Marketer
-!(Mossad.jpeg)
 This project is related to SaudiGBT Hackathon (Mussaed)
-* [Project Proposal](https://github.com/Mashael2030/Diabetes-Health-Indicators-Classfication/blob/main/Documentation/Project%20Proposal.md)
-* [Source Code](https://github.com/Mashael2030/Diabetes-Health-Indicators-Classfication/blob/main/Code/Diabetes_Health_Indicators_Classification_Model_update%20(1).ipynb)
-* [Presentation Slides](https://github.com/Mashael2030/Diabetes-Health-Indicators-Classfication/blob/main/Documentation/Diabetes%20presentation.pdf)
-* [Final Deployment](https://github.com/Mashael2030/Diabetes-Health-Indicators-Classfication-Deployment-1)
+# Overview 
+As one of the most prevalent chronic diseases in the United States, diabetes, especially type 2 diabetes, affects the health of millions of people and puts an enormous financial burden on the US economy. We aimed to develop predictive models to identify risk factors for type 2 diabetes, which could help facilitate early diagnosis and intervention and also reduce medical costs.
 ## Prepared by
 * [Mashael Asiri]
 * [Osama Albishiri]
