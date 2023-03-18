@@ -3,7 +3,7 @@ This project is related to SaudiGBT Hackathon (Mussaed)
 
 
 # Mussaed | Right Marketer
-![Diabetes-Care-Plan](Mossad.jpeg)
+!(Mossad.jpeg)
 This project is related to SaudiGBT Hackathon (Mussaed)
 * [Project Proposal](https://github.com/Mashael2030/Diabetes-Health-Indicators-Classfication/blob/main/Documentation/Project%20Proposal.md)
 * [Source Code](https://github.com/Mashael2030/Diabetes-Health-Indicators-Classfication/blob/main/Code/Diabetes_Health_Indicators_Classification_Model_update%20(1).ipynb)
